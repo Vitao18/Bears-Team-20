@@ -1,0 +1,8 @@
+.root {
+  display: flex;
+  flex-direction: row,
+}
+
+.login {
+  align-self: flex-end,
+}
